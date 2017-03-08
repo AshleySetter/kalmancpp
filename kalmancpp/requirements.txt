@@ -1,0 +1,7 @@
+#
+####### requirements.txt for kalmancpp #######
+#
+###### Requirements without Version Specifiers ######
+numpy
+cython
+#
